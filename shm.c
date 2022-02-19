@@ -5,6 +5,8 @@
 #include<sys/types.h>
 #include <sys/ipc.h>
 
+//Este es un comentario
+
 //wait: Espera lo necesario (Se detiente hast que termine su hijo)
 // sleep: Espera algunos segundos 
 
